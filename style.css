@@ -1,6 +1,33 @@
 .form-group{
-    color: red;
+    color: black;
 }
 .portfolio{
     text-align: center;
+}
+body{
+    background-image: url("https://miro.medium.com/max/2000/0*reBsAde9ZZIeFUeW");
+    background-size: cover;
+    font-family: 'Nunito';
+    font-size: larger;
+    font-weight: bolder;
+    color: black;
+}
+.stuff{
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+}
+.navbar-brand{
+    color: rgba(3, 3, 39, 0.753);
+}
+.nav-link{
+    color: rgba(3, 3, 39, 0.753);
+}
+.portfolio1{
+    color: darkblue;
+    font-weight: 900;
+}
+.card{
+    width: 80%;
+    background-color: rgb(236, 240, 245)
 }
