@@ -5,7 +5,7 @@
     text-align: center;
 }
 body{
-    background-image: url("https://miro.medium.com/max/2000/0*reBsAde9ZZIeFUeW");
+    background: url("https://miro.medium.com/max/2000/0*reBsAde9ZZIeFUeW");
     background-size: cover;
     font-family: 'Nunito';
     font-size: larger;
@@ -39,3 +39,5 @@ body{
 .resume{
     size: 10cm;
 }
+
+
